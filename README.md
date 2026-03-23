@@ -1,4 +1,4 @@
-# Hi there, I'm Felipe Weiss 👋
+# Hi there, I'm Felipe Eduardo Weiss 👋
 
 ### Fullstack Software Engineer | Frontend Specialist
 📍 Based in Limerick, Ireland 🇮🇪 | EU Passport Holder
