@@ -6,9 +6,15 @@
 #
 
 ### 🛠️ Tech Stack
-* **Frontend/Mobile:** ReactJS, React Native, Svelte, TypeScript, JavaScript.
-* **Backend & Cloud:** NodeJS, Python, AWS, SQL (Intersystems Caché, MySQL), PHP.
-* **Tools:** Figma, Git, Docker, Agile/Scrum.
+
+**Frontend & Mobile**<br>
+React · React Native · Svelte · TypeScript · JavaScript
+
+**Backend & Cloud**<br>
+NodeJS · Python · AWS · SQL · PHP (Laravel)
+
+**Tools**<br>
+Figma · Git · Docker · Agile
 
 #
 
@@ -23,3 +29,4 @@
 #
 
 *"Passionate about clean code, accessibility, and creating seamless user experiences."*
+
