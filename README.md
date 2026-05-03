@@ -7,14 +7,14 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend & Mobile**<br>
+**Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,svelte,javascript,typescript,html,css,tailwind,sass&perline=9" />
 
-**Backend & Cloud**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,aws,php&perline=9" />
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,php&perline=9" />
 
 **Tools**<br>
-<img src="https://skillicons.dev/icons?i=figma,git,docker&perline=9" />
+<img src="https://skillicons.dev/icons?i=figma,git,docker,aws&perline=9" />
 
 #
 
@@ -28,5 +28,9 @@
 
 #
 
-*"Passionate about clean code, accessibility, and creating seamless user experiences."*
-
+<div align="center">
+  <br />
+  <em>"Passionate about clean code, accessibility, and creating seamless user experiences."</em>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipeeweiss&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
