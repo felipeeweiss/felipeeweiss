@@ -8,13 +8,13 @@
 ### 🛠️ Tech Stack
 
 **Frontend & Mobile**<br>
-React · React Native · Svelte · TypeScript · JavaScript
+<img src="https://skillicons.dev/icons?i=react,svelte,javascript,typescript,html,css,tailwind,sass&perline=9" />
 
 **Backend & Cloud**<br>
-NodeJS · Python · AWS · SQL · PHP (Laravel)
+<img src="https://skillicons.dev/icons?i=nodejs,python,aws,php&perline=9" />
 
 **Tools**<br>
-Figma · Git · Docker · Agile
+<img src="https://skillicons.dev/icons?i=figma,git,docker&perline=9" />
 
 #
 
